@@ -12,9 +12,9 @@
 
 可适配挂载 klicky IDM M8 接近开关 等多种调平方案
 
-![EZ](https://github.com/thunder439/EZPRINTHEAD/blob/main/EZ1.png)
+![EZ](Images/EZ1.png)
 
-![EZ](https://github.com/thunder439/EZPRINTHEAD/blob/main/EZ2.png)
+![EZ](Images/EZ2.png)
 
 ## BOM
 
